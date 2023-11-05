@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: D. Hudson
+first_name: Hudson
 middle_name: 
 last_name: Smith
 email: dane2@clemson.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for D. Hudson Smith
+  Personal website for Dane Hudson Smith
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

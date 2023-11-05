@@ -2,12 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>Barre Hall</p>
   #   <p>Clemson University</p>
@@ -18,15 +17,14 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Thanks for visiting! 👋
 
-Hudson directs Applied Machine Learning for Research Computing and Data at Clemson University.
-In addition, he is Research Associate Professor in Electrical and Computer Engineering and Co-Leads the 
-[Clemson/MUSC AI Hub](https://web.musc.edu/innovation/ai-hub).
+I am a machine learning scientist at Clemson University. I wear several hats:
 
-Following his graduate work in theoretical atomic physics, Hudson worked in the data science industry, 
-applying machine learning techniques to solve problems within the healthcare industry. 
-In his role at Clemson, he works alongside a wide range of domain specialists spanning 
-social and biomedical sciences to apply machine learning techniques in impactful ways. 
+* 🎩 Director of Applied Machine Learning 🎩 -- [Division of Research Computing and Data](https://docs.rcd.clemson.edu/), Clemson University
+* 🎓 Research Associate Professor 🎓 -- [Electrical and Computer Engineering](https://www.clemson.edu/cecas/departments/ece/), Clemson University
+* ⛑️ Co-Lead ⛑️ -- [Clemson/MUSC Artificial Intelligence Hub](https://web.musc.edu/innovation/ai-hub)
 
-His research focuses on applications in the Healthcare domain, emphasizing sample-efficient 
-deep learning in data-limited scenarios such as diagnosing congenital heart defects from ultrasound video clips.
+My current research focuses on sample-efficient deep learning techniques for healthcare applications. Better sample efficiency means that you need less data, lowering costs and opening the door to new applications. To improve efficiency, I find ways to build inductive priors into the model architecture or training procedure. This requires deep thinking about each problem followed by concrete algorithmic expression of any insights. See [my publications](/publications) for more.
+
+I have a PhD in theoretical atomic Physics from Ohio State university. Though I don't consider myself to be a Physicist anymore, I strive to bring the conceptual dynamism, mathematical rigor, and unmatched style of The Physicist to my work in machine learning. My latent Physicist also asserts himself through [my artwork](/artwork). 

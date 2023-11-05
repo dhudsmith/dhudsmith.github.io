@@ -1,9 +1,9 @@
 ---
 layout: page
-title: #projects
-permalink: /projects/
+title: artwork
+permalink: /artwork/
 description: 
-nav: false #true
+nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
