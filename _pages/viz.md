@@ -1,10 +1,10 @@
 ---
 layout: page
-title: artwork
-permalink: /artwork/
+title: data visualization
+permalink: /viz/
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: 
 horizontal: false
 ---
