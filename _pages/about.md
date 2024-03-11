@@ -17,12 +17,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a machine learning scientist at Clemson University. 
+I am a machine learning scientist at Clemson University.
 
-Currently, I am researching sample-efficient 
-deep learning techniques for scientific applications in medicine and social science. 
-Working closely with clinicians and other domain experts, I build inductive priors into model architectures and 
-training procedures. These priors offset the need for large, labeled datasets, enabling deep learning applications
-in data-constrained settings. See [my publications](/pubs)
+I develop techniques for incorporating prior knowledge into machine learning systems for data-constrained applications. This synthesis of established domain knowledge with flexible machine learning methods leads to better anomaly detection rates, improved sample efficiency, and explainable inference, without sacrificing the expressive power of data-driven techniques like deep learning. See [my publications](/pubs)
 
-I have a PhD in theoretical atomic Physics from Ohio State university. Though I don't consider myself to be a Physicist anymore, I strive to bring the conceptual dynamism, mathematical rigor, and unmatched style of The Physicist to my work in machine learning. My latent Physicist also asserts himself through [my visualizations](/viz). 
+I have a PhD in theoretical atomic Physics from Ohio State university. As a physicist, I learned the power of approaching problems from first principles. As a machine learning scientist, I have seen the power of flexible, data-driven models. This dual experience allows me to integrate the strengths of both approaches. See my physics-based [visualizations](/viz).
