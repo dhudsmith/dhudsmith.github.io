@@ -2,13 +2,13 @@
     <head>
         <meta charset="utf-8"/>
         <meta http-equiv="refresh" content="1;url={{ page.redirect }}"/>
-        <link rel="canonical" href="{{ page.redirect }}"/>
+        <link rel="{{ page.rel }}" href="{{ page.redirect }}" target="{{ page.target }}"/>
         <script type="text/javascript">
                 window.location.href = "{{ page.redirect }}"
         </script>
         <title>Page Redirection</title>
     </head>
     <body>
-    If you are not redirected automatically, follow <a href='{{ page.redirect }}'>this link</a>.
+    If you are not redirected automatically, follow <a href='{{ page.redirect }}' target="_blank" rel="noopener noreferrer">this link</a>.
     </body>
-    </html>
+</html>
