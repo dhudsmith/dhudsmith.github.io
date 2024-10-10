@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Assistant Professor in the Department of Mathematics and Statistical Sciences at Clemson University. I develop techniques for incorporating prior knowledge into deep learning systems for data-constrained applications.
+I am an Assistant Professor in the Department of Mathematics and Statistical Sciences at Clemson University. I develop techniques for incorporating prior knowledge into deep learning systems for data-constrained applications.
 
 The synthesis of established domain knowledge with flexible learning-based methods leads to better anomaly detection rates, improved sample efficiency, and explainable inference, without sacrificing the expressive power of data-driven techniques like deep learning. See [my publications](/pubs)
 
