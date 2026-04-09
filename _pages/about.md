@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the Department of Mathematics and Statistical Sciences at Clemson University. I develop techniques for incorporating prior knowledge into deep learning systems for data-constrained applications.
+I am an Assistant Professor in the Department of Mathematical and Statistical Sciences at Clemson University and a co-lead of the Clemson/MUSC Artificial Intelligence Hub. I develop machine learning methods that incorporate prior knowledge for data-constrained scientific and medical applications.
 
-The synthesis of established domain knowledge with flexible learning-based methods leads to better anomaly detection rates, improved sample efficiency, and explainable inference, without sacrificing the expressive power of data-driven techniques like deep learning. See [my publications](/pubs)
+The synthesis of established domain knowledge with flexible learning-based methods leads to better anomaly detection, improved sample efficiency, and more explainable inference without sacrificing the expressive power of modern data-driven models. See [my publications](/pubs/).
 
-I have a PhD in theoretical atomic Physics from Ohio State university. As a physicist, I learned the power of approaching problems from first principles. As a machine learning scientist, I have seen the power of flexible, data-driven models. This dual experience allows me to integrate the strengths of both approaches. See my physics-based [visualizations](/viz).
+I earned a PhD in theoretical atomic physics from The Ohio State University. As a physicist, I learned the value of first-principles reasoning; as a machine learning researcher, I have seen the power of flexible statistical models. That combination shapes how I approach research. See my physics-based [visualizations](/viz/).

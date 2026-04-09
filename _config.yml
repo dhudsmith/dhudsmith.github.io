@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Hudson Smith
 first_name: Hudson
 middle_name:
 last_name: Smith
 email: dane2@clemson.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for Dane Hudson Smith
+  Personal website for Hudson Smith
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Hudson Smith, machine learning, artificial intelligence, Clemson University, deep learning, statistical sciences
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -84,7 +84,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.clemson.edu/science/academics/departments/mathstat
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
@@ -101,7 +101,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-contact_note: # note here You can even add a little note about which of these is the best way to reach you.
+contact_note: Email is the best way to reach me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -244,8 +244,6 @@ sass:
 
 jekyll-minifier:
   exclude: ["robots.txt"]
-  uglifier_args:
-    harmony: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
@@ -271,7 +269,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Smith]
-  first_name: [D. Hudson, D. H.]
+  first_name: [Hudson, D Hudson, D. Hudson, D H, D. H., Dane Hudson]
 
   style: apa
   locale: en

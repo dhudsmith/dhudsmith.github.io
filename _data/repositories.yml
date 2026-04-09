@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dhudsmith
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dhudsmith/schrod
+  - dhudsmith/nnet_umap
+  - dhudsmith/mcp-mathematica
+  - dhudsmith/quantum_billiards
+  - dhudsmith/transport-potential-engineering
+  - dhudsmith/clean-the-text
