@@ -2,8 +2,10 @@ github_users:
   - dhudsmith
 
 github_repos:
+  - dhudsmith/unsupervised-detection-cois
   - dhudsmith/schrod
   - dhudsmith/nnet_umap
+  - dhudsmith/voronoi-stained-glass
   - dhudsmith/mcp-mathematica
   - dhudsmith/quantum_billiards
   - dhudsmith/transport-potential-engineering
